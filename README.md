@@ -1,1 +1,1 @@
-# AwsbToken
+# awsb-token
